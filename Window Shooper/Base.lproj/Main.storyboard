@@ -42,7 +42,7 @@
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="32" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NtB-MM-rDn">
-                                <rect key="frame" x="146.5" y="439" width="121" height="96"/>
+                                <rect key="frame" x="50" y="439" width="314" height="96"/>
                                 <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="70"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
@@ -80,7 +80,7 @@
                             <constraint firstAttribute="bottom" secondItem="Cjk-gr-cW0" secondAttribute="bottom" id="T6c-U3-lpN"/>
                             <constraint firstItem="biY-KH-FrA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Tkm-Lz-6xg"/>
                             <constraint firstItem="PH9-J0-RAR" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="UuI-8M-LDE"/>
-                            <constraint firstItem="NtB-MM-rDn" firstAttribute="width" secondItem="srt-Sh-FYL" secondAttribute="width" multiplier="0.38535" id="Vpe-HZ-tHn"/>
+                            <constraint firstItem="NtB-MM-rDn" firstAttribute="width" secondItem="srt-Sh-FYL" secondAttribute="width" id="Vpe-HZ-tHn"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="J4x-3V-VOz" secondAttribute="trailing" constant="50" id="biH-3N-hPK"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="biY-KH-FrA" secondAttribute="bottom" constant="20" id="cQK-AI-p71"/>
                             <constraint firstItem="NtB-MM-rDn" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cag-4H-NrV"/>
